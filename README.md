@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, hello! 👋
+
+- 🔭 I’m currently working on recreating a daily journal through HTML, CSS, & JavaScript.
+- 🌱 I’m currently learning JavaScript and soon, React as well!
+- 🤝 I’m looking to collaborate on anything! But especially anything outdoors-related.
+- 🤔 I’m looking for help with overcoming the obstacle of not having a bachelor's degree.
+- 💬 Ask me about what my long-term goals or interests are!
 
 <!--
 **HLVN-1/HLVN-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
