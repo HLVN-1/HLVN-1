@@ -4,7 +4,10 @@
 - 🌱 I’m currently learning JavaScript and soon, React as well!
 - 🤝 I’m looking to collaborate on anything! But especially anything outdoors-related.
 - 🤔 I’m looking for help with overcoming the obstacle of not having a bachelor's degree.
-- 💬 Ask me about what my long-term goals or interests are!
+
+I've got a background in hospitality, videography, and client management. I bartended for 4+ years where I helped lead a large team of talented individuals, competed in local and national competitions and landed my dream job in San Diego way back when! Then I ran my own wedding videography business for 3+ years where I learned a lot of time management skills, technical skills, and improved on my communication and so much more. 
+
+My interests and hobbies are all over the place, but I especially love the outdoors, physical activities like biking, climbing, (although I don't do much of these things anymore 🥲), and dogs! I'd love to create something that would improve someone's experience in one of those things. 
 
 <!--
 **HLVN-1/HLVN-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
