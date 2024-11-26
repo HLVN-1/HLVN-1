@@ -1,9 +1,8 @@
 ### Hi, hello! 👋
 
 - 🔭 I’m currently working on recreating a daily journal through HTML, CSS, & JavaScript.
-- 🌱 I’m currently learning JavaScript and soon, React as well!
-- 🤝 I’m looking to collaborate on anything! But especially anything outdoors-related.
-- 🤔 I’m looking for help with overcoming the obstacle of not having a bachelor's degree.
+- 🌱 I’m currently improving my JavaScript & React skills.
+- 🤝 I’m looking to collaborate on anything, but especially something that can help people!
 
 I've got a background in hospitality, videography, and client management. I bartended for 4+ years where I helped lead a large team of talented individuals, competed in local and national competitions and landed my dream job in San Diego way back when! Then I ran my own wedding videography business for 3+ years where I learned a lot of time management skills, technical skills, and improved on my communication and so much more. 
 
